@@ -1,0 +1,28 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+coinType                                                                          0x0300      11
+respuestaCoinType                                                                 0x030B      34
+poll                                                                              0x032D       7
+respuestaPoll                                                                     0x0334      15
+dispenseUno                                                                       0x0343       8
+respuestaDispense                                                                 0x034B      14
+tubeStatus                                                                        0x0359       7
+respuestaTubeStatus                                                               0x0360      32
+i                                                                                 0x0380       2
+contador                                                                          0x0382       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0008B    255
+getchar                                                                           0x0018A      7
+putchar                                                                           0x00191     10
